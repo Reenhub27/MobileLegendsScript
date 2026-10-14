@@ -1,0 +1,1 @@
+# MobileLegendsScript-text.txt
